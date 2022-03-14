@@ -1,0 +1,15 @@
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\DotnetLists.csproj.AssemblyReference.cache
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\DotnetLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\DotnetLists.AssemblyInfoInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\DotnetLists.AssemblyInfo.cs
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\DotnetLists.csproj.CoreCompileInputs.cache
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\bin\Debug\net6.0\DotnetLists.exe
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\bin\Debug\net6.0\DotnetLists.deps.json
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\bin\Debug\net6.0\DotnetLists.runtimeconfig.json
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\bin\Debug\net6.0\DotnetLists.dll
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\bin\Debug\net6.0\DotnetLists.pdb
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\DotnetLists.dll
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\refint\DotnetLists.dll
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\DotnetLists.pdb
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\DotnetLists.genruntimeconfig.cache
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\DotnetLists\obj\Debug\net6.0\ref\DotnetLists.dll
